@@ -81,6 +81,4 @@ Start the server
   npm run start
 ```
 
-[Intro.pdf](https://github.com/enisgjini/search-filter-application/blob/master/Search%20Bar%20Application%20Report.pdf).
-
 
